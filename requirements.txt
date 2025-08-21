@@ -1,0 +1,4 @@
+ttkbootstrap
+selenium
+webdriver-manager
+fake-useragent
